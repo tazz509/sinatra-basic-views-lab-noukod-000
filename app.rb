@@ -6,4 +6,4 @@ get("/"){
 }
 
 end
-© 2019 GitHub, Inc.
+
